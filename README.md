@@ -41,9 +41,9 @@ git clone https://github.com/your-username/california-house-price-prediction.git
 cd california-house-price-prediction
 
 # Create and activate virtual environment
-python -m venv venv
-.\venv\Scripts\activate  # Windows
-source venv/bin/activate # macOS/Linux
+- python -m venv venv
+- .\venv\Scripts\activate  # Windows
+- source venv/bin/activate # macOS/Linux
 
 # Install dependencies
 pip install -r requirements.txt
